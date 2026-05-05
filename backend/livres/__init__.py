@@ -1,0 +1,1 @@
+default_app_config = 'livres.apps.LivresConfig'  # Si vous utilisez Django < 3.2
