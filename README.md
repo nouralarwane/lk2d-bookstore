@@ -162,7 +162,7 @@ Ce projet démontre ma capacité à :
 **Larwanou Laouali Noura**
 Développeur Full Stack Django / React | Flutter
 
-* 📧 [nouralarwanou@ump.ac.ma](mailto:nouralarwanou@ump.ac.ma)
+* 📧 [larwanounoura49@gmail.com](mailto:larwanounoura49@gmail.com)
 * 🔗 LinkedIn : https://www.linkedin.com/in/larwanou-laouali-noura-0147952a6/
 * 💻 GitHub : https://github.com/nouralarwane
 
